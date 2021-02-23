@@ -5,6 +5,9 @@ date: "2021-02-23"
 output: github_document
 ---
 
+#  This lab is to help manipulate and understand tables, as well as learn about taking information from a table and graphing it on a plot.
+
+
 # Load Packages
 ```{r}
 library(tidyverse)
